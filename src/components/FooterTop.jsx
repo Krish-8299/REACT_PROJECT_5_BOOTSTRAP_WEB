@@ -5,7 +5,7 @@ const FooterTop = () => {
 
         {/* Logo */}
         <div className="col-12 col-md-4 d-flex justify-content-center justify-content-md-start align-items-center gap-2">
-          <img src="./public/images/logo.png" alt="logo" height="30" />
+          <img src="/images/logo.png" alt="logo" height="30" />
           <span className="fw-bold fs-5">AUDIO PRO</span>
         </div>
 
