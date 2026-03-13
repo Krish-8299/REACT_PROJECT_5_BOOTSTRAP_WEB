@@ -3,7 +3,7 @@ const mainData = {
   description:
     "Combining flagship AUDIO PRO Legend Series drivers with new technologies, Reserve Series Loudspeakers deliver extraordinarily detailed imaging, smooth mid-range, and effortless bass.",
   buttonText: "OUR BLOG",
-  image: "./public/images/home2.jpg",
+  image: "/images/home2.jpg",
 };
 
 export default mainData;
