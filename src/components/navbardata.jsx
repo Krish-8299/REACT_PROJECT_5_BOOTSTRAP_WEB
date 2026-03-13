@@ -4,7 +4,7 @@ import { HiOutlineUser, HiOutlineShoppingBag } from "react-icons/hi";
 const navbarData = {
   brand: {
     name: "AUDIO PRO",
-    logo: "./public/images/logo.png",
+    logo: "/images/logo.png",
   },
 
   menu: [
